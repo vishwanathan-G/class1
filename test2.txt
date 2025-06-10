@@ -1,1 +1,3 @@
 welcome to python coding
+
+learning is good for everyone
